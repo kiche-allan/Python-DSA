@@ -1,0 +1,3 @@
+Linked List is a data structure whee the data elements are stored in a linear order. Linked list provides efficient strorage of data in linear data through pointer structures. Pointers are used to store the memory address of data item. They store the data and location, and the location stores the next position of the next data item in memory.
+A linked list is an organization where each item in the list is a seperate node
+Each link is is attached to the next link by a reference that points to the next links in a linked list, each link is in the chain is called a node
